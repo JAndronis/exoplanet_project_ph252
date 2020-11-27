@@ -1,4 +1,4 @@
-# Introduction to Data Science and Machine Learning - Project Proposal
+# Mass - Radius Relationship / Φ252 Project
 
 ## Introduction
 
