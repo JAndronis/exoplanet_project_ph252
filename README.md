@@ -1,4 +1,5 @@
 # Mass - Radius Relationship / Φ252 Project
+This is a project fot the ph-252 course at University of Crete. We were tasked to choose our own classification or regression problem and dataset, and conduct a rudamentary analysis on it.
 
 ## Introduction
 
