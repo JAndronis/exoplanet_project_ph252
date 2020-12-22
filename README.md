@@ -14,4 +14,4 @@ We will initially refine our feature space by using random forests to extrapolat
 
 ## Dataset
 
-We will use data from the Open Exoplanet Catalog, located at https://www.kaggle.com/mrisdal/open-exoplanet-catalogue. It contains 3584 confirmed planets along with various parameters like those mentioned above.
+We will use data from the Open Exoplanet Catalog, located at https://github.com/openexoplanetcatalogue/open_exoplanet_catalogue/. It contains more than 3000  confirmed planets along with various parameters like those mentioned above.
