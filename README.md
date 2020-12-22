@@ -18,4 +18,4 @@ We will initially refine our feature space by using random forests to extrapolat
 We will use data from the Open Exoplanet Catalog, located at https://github.com/openexoplanetcatalogue/open_exoplanet_catalogue/. It contains more than 3000  confirmed planets along with various parameters like those mentioned above.
 
 ## Contact Details
-This project was created by the UOC students: Jason Andronis (ph4783@edu.physics.uoc.gr), Danai Filippoy (ph4726@edu.physics.uoc.gr), Karagianni Despoina (ph4659@edu.physics.uoc.gr)
+This project was created by the UOC students: Jason Andronis (ph4783@edu.physics.uoc.gr), Danai Filippou (ph4726@edu.physics.uoc.gr), Karagianni Despoina (ph4659@edu.physics.uoc.gr)
