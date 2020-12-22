@@ -10,7 +10,7 @@ We aim to implement a machine learning pipeline that will derive the radius of a
 
 ## Methods
 
-We will initially refine our feature space by using random forests to extrapolate the feature importances and based on those, keep only the relevant features. We will then implement several regression algorithms (LASSO, Ridge, Elastic Net, Random Forests, SVM's) and test their relative performance on our dataset to decide which to include in our pipeline. Randomized Search and Grid Search will be used for optimizing each model. The evaluation of each model will be done by testing its cross validation performance on a test set and by analyzing other metrics like MSE or the $R^2$ score.
+We will initially refine our feature space by using random forests to extrapolate the feature importances and based on those, keep only the relevant features. We will then implement several regression algorithms (LASSO, Ridge, Elastic Net, Random Forests, SVM's) and test their relative performance on our dataset to decide which to include in our pipeline. Randomized Search and Grid Search will be used for optimizing each model. The evaluation of each model will be done by testing its cross validation performance on a test set and by analyzing other metrics like MSE or the <img src="https://latex.codecogs.com/gif.latex?R^2"/>  score.
 
 ## Dataset
 
